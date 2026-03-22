@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-requests
 python-dotenv
+requests
+apify-client
+groq
